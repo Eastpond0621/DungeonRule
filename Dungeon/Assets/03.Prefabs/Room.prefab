@@ -9,7 +9,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3829583572090732375}
-  - component: {fileID: 6226170271078891332}
+  - component: {fileID: 1159117265976209089}
   m_Layer: 0
   m_Name: Room
   m_TagString: Untagged
@@ -35,7 +35,7 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &6226170271078891332
+--- !u!114 &1159117265976209089
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -58,10 +58,10 @@ MonoBehaviour:
   - {fileID: 636322914717979495}
   - {fileID: 636322915384773383}
   doors:
-  - {fileID: 636322915014978554}
-  - {fileID: 636322914147223634}
-  - {fileID: 636322914717979495}
-  - {fileID: 636322915384773383}
+  - {fileID: 2633527114790586980}
+  - {fileID: 535210129270341753}
+  - {fileID: 2017219757001571305}
+  - {fileID: 8583241076354335884}
 --- !u!1 &3829583572327800908
 GameObject:
   m_ObjectHideFlags: 0
@@ -398,6 +398,11 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9175d08a6bdddeb48afa15d1b714d918, type: 3}
+--- !u!1 &535210129270341753 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 416386656469751746, guid: 9175d08a6bdddeb48afa15d1b714d918, type: 3}
+  m_PrefabInstance: {fileID: 192035975894800315}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &5941956842782681558 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 5826582559400492653, guid: 9175d08a6bdddeb48afa15d1b714d918, type: 3}
@@ -539,6 +544,11 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9175d08a6bdddeb48afa15d1b714d918, type: 3}
+--- !u!1 &2017219757001571305 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 416386656469751746, guid: 9175d08a6bdddeb48afa15d1b714d918, type: 3}
+  m_PrefabInstance: {fileID: 2178009231849810987}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &5685225174973059654 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 5826582559400492653, guid: 9175d08a6bdddeb48afa15d1b714d918, type: 3}
