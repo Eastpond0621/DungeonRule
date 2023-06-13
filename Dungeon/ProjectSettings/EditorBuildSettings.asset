@@ -14,8 +14,8 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/01.Scenes/Play.unity
     guid: 10901b2f0b8a9da4592eac67b0d534ec
-  - enabled: 1
-    path: Assets/01.Scenes/Play_backup.unity
-    guid: 1390b6b8fe47d4f5cab44ab87fa2a409
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
   m_configObjects:
     com.unity.input.settings: {fileID: 11400000, guid: 9e7be553448fa2546aea5752021cbcf7, type: 2}

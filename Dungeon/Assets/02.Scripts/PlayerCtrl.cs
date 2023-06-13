@@ -44,7 +44,7 @@ public class PlayerCtrl : MonoBehaviour
 
         turnSpeed = 0.0f;
         yield return new WaitForSeconds(0.3f);
-        turnSpeed = 80.0f;
+        turnSpeed = 90.0f;
     }
 
     void Update()

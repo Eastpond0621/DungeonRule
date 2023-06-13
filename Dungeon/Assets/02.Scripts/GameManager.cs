@@ -13,7 +13,7 @@ public class GameManager : MonoBehaviour
     public List<GameObject> monsterPool = new List<GameObject>();
 
     // 오브젝트 풀(Object Pool)에 생성할 몬스터의 최대 개수
-    public int maxMonsters = 10;
+    public int maxMonsters = 13;
 
     // 몬스터 프리팹을 연결할 변수
     public GameObject monster;

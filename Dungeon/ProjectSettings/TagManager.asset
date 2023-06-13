@@ -7,6 +7,12 @@ TagManager:
   - Interactable
   - Wall
   - Floor
+  - HP_BAR
+  - BULLET
+  - PLAYER
+  - MONSTER
+  - PUNCH
+  - BARREL
   layers:
   - Default
   - TransparentFX
